@@ -3,3 +3,4 @@ module.exports = (req, res) => {
 };
 
 module.exports.version = 2;
+module.exports.version3 = 3;
